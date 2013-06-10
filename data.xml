@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<humans>
+    <user id="dr1000">
+        <name>a</name>
+        <job>Jack of All Trades</job>
+        <personality>demanding and fetching</personality>
+        <salary>$900,000,000</salary>
+        <email>billnye@science.com</email>
+        <user_notes>I hate beakman</user_notes>
+    </user>
+    <user id="dr1001">
+        <name>Gates, Bill</name>
+        <job>Self Employed</job>
+        <personality>Dweeb</personality>
+        <salary>$900,000,001</salary>
+        <email>billgates@apple.com</email>
+        <user_notes>Uses a apple email to fool spammers.</user_notes>
+    </user>
+    
+    
+
+    
+<user id="222"><name>wewewe</name><job>aaa</job><personality>asdaa</personality><salary>asda</salary><email>asdaaa</email><user_notes>aaaaasd</user_notes><id>999</id></user></humans>
